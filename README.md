@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte da disciplina Oficina de Integração 1
 English version: This project was developed as part of the Integration Workshop 1 course, offered in the fourth semester of the Computer Engineering course at the Federal University of Technology – Paraná (UTFPR). The main objective was to create a glove capable of recognizing letters of the alphabet in LIBRAS (Brazilian Sign Language) gestured by the user, and displaying them on a mobile device screen. The code to control the glove was written using the Arduino IDE, employing a language similar to C++. This system aims to facilitate communication between deaf individuals and hearing people by providing a practical and accessible interface.
 
 <p align="center">
-  <img src="https://github.com/kauangod/LIBRAS-signing-glove/blob/main/README.md" width="351" height="200" />
+  <img src="https://github.com/kauangod/LIBRAS-signing-glove/blob/main/Images/glove.png" width="351" height="200" />
 </p>
 
 ## Principais Componentes / Main Components
@@ -19,7 +19,7 @@ A identificação das letras foi realizada utilizando o metódo de árvore de de
 English: The identification of the letters was performed using the decision tree method. The tree can be seen below.
 
 <p align="center">
-  <img src="" width="546" height="300" />
+  <img src="https://github.com/kauangod/LIBRAS-signing-glove/blob/main/Images/tree.png" width="546" height="300" />
 </p>
 
 ## Vídeo de Demonstração / Showcase Video
